@@ -1,0 +1,23 @@
+{
+  "name": "page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elieel5/page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elieel5/page/issues"
+  },
+  "homepage": "https://github.com/Elieel5/page#readme",
+  "devDependencies": {
+    "serve": "^13.0.4"
+  }
+}
